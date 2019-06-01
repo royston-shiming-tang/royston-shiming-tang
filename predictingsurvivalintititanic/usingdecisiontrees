@@ -10,7 +10,7 @@ library(RColorBrewer)
 #Set Working Directory
 setwd("C:/temp/PA/Week 7")
 
-#Set rabdom seed. Don't remove this line.
+#Set random seed. Don't remove this line.
 set.seed(1)
 
 #######Loading the Data
